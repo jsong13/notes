@@ -1,4 +1,4 @@
-
+```javascript
 optcommon = {
     xAxis: {
       type: 'datetime',
@@ -59,3 +59,4 @@ document.addEventListener('DOMContentLoaded', function () {
   
 });
 
+```
